@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mr-HabibZ1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 👋 Hi,
+pkgupdate && PKG upgrade
+pkg install nodejs
+pkg install ffmpeg
+git clone https://github.com/Mr-HabibZ1/Mr-Habib
